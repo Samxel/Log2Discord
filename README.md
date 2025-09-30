@@ -37,5 +37,5 @@ Available only to server operators:
 
 ## Notes
 - This mod is **server-side only** and does not need to be installed by clients.  
-- Works with Fabric 1.21.8.  
+- Works with Fabric 1.21.9.  
 - Make sure to keep your webhook URL private — anyone with this URL can post into your Discord channel.
