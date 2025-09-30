@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "log2discord",
+  "version": "${version}",
+  "name": "Log2Discord",
+  "description": "Relay your minecraft console to a discord server.",
+  "authors": ["Samxel"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "server",
+  "entrypoints": {
+    "server": [
+      "com.samxel.log2discord.Log2Discord"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
