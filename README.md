@@ -15,6 +15,7 @@ It provides clean message formatting and simple admin commands for configuration
     <img src="https://img.shields.io/badge/Modrinth-Download-brightgreen?logo=modrinth&style=for-the-badge" alt="Modrinth">
   </a>
 </p>
+
 ## Features
 - Sends server console output (INFO, WARN, ERROR …) directly to a Discord channel  
 - Easy configuration via JSON file or in-game commands  
