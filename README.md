@@ -7,8 +7,14 @@ It provides clean message formatting and simple admin commands for configuration
   <img src="https://github.com/user-attachments/assets/11b2c473-d150-43bd-b3ea-7ee492b6eb6a" 
        alt="log2discord"
        width="200" />
-</p>
 
+
+</p>
+<p align="center">
+  <a href="[https://modrinth.com/mod/mendingremover](https://modrinth.com/mod/log2discord)">
+    <img src="https://img.shields.io/badge/Modrinth-Download-brightgreen?logo=modrinth&style=for-the-badge" alt="Modrinth">
+  </a>
+</p>
 ## Features
 - Sends server console output (INFO, WARN, ERROR …) directly to a Discord channel  
 - Easy configuration via JSON file or in-game commands  
