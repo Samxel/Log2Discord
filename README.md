@@ -11,7 +11,7 @@ It provides clean message formatting and simple admin commands for configuration
 
 </p>
 <p align="center">
-  <a href="[https://modrinth.com/mod/mendingremover](https://modrinth.com/mod/log2discord)">
+  <a href="https://modrinth.com/mod/log2discord">
     <img src="https://img.shields.io/badge/Modrinth-Download-brightgreen?logo=modrinth&style=for-the-badge" alt="Modrinth">
   </a>
 </p>
